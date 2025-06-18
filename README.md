@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar00012&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-Ranjan" width="150"/> </p>
 
-- 🔭 **Currently working on:** AI-ML applications in Fashion Tech & NLP-based Fake News Detection  
-- 🏆 **Co-Author:** "Transforming Fashion: The Fusion of IoT, AI, and Creativity" (Published 2024)  
-- 🌱 **Learning:** Deep Learning, IoT, Cloud Computing (AWS/GCP), Generative AI  
+- 🔭 **Currently working on:** Real-time AI-ML systems for Healthcare, Environmental Monitoring, and Misinformation Detection  
+- 🌱 **Learning:** Deep Learning, Cloud Integration (Firebase/GCP), Generative AI, Full Stack Development  
 - 📫 **Reach me at:** tusharranjan151@gmail.com  
-- ⚡ **Fun fact:** AI is my passion, but I still believe in the human touch! 🤖❤️  
+- ⚡ **Fun fact:** I love building AI projects that solve real-world problems—tech with impact is my mantra! 🌍🤖  
+
 
 ---
 
