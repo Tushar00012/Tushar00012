@@ -60,22 +60,26 @@ const Tushar Ranjan = {
 ## 🏗️ **Projects**
 
 ### 🔹 Query Wizard: 
-> Technologies: Python, Streamlit, Gemini API, MySQL, Google-translator
->  Query Wizard – an AI-powered query resolution system that efficiently processes user queries using NLP and database integration, providing real-time, accurate and context-aware SQL queries.
+> Technologies: Python, Streamlit, Gemini API, MySQL, Google-translator.
+
+> AI-powered query resolution system that efficiently processes user queries using NLP and database integration, providing real-time, accurate and context-aware SQL queries.
 
 
 ### 🔹 MedQ: Hospitals at Your Fingertips  
-> Technologies: Flutter, Firebase, Google Maps API, Flask, Python  
+> Technologies: Flutter, Firebase, Google Maps API, Flask, Python.
+
 > Real-time bed availability, OPD registration, and predictive inventory alerts reducing patient wait time by 30%.  
 
 
 ### 🔹 Social Guard: 
-> Technologies: Python, Streamlit, API, LLaMA 3 8B, BeautifulSoup, Scikit-learn
+> Technologies: Python, Streamlit, API, LLaMA 3 8B, BeautifulSoup, Scikit-learn.
+
 > Developed Social Guard, a forensic tool to detect and mitigate misinformation on platforms like YouTube and News using APIs, machine learning, and web scraping.
 
 
 ### 🔹 Face Authentication Security System  
-> Technologies: HTML, CSS, Firebase, Python, OpenCV, Flask  
+> Technologies: HTML, CSS, Firebase, Python, OpenCV, Flask.
+
 > Secure banking authentication reducing OTP frauds.  
 
 ---
