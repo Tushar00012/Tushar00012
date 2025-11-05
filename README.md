@@ -33,8 +33,6 @@ const Tushar Ranjan = {
 | Qualification | Studied at | Institute | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: |
 | B.Tech CSE-AIML | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 8.6 CGPA |
-| Intermediate | Adarsh Public School Noida | CBSE | 2020 - 2021 | 95.6% |
-| High School | Cambridge School Noida | CBSE | 2018 - 2019 | 93.4% |
 <!-- END_SECTION:blog -->
 ---
 
