@@ -28,14 +28,14 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 💼 Currently a **Software Development Engineer Intern at Baazi Games (CoinPoker)** — shipping features across 3 live React Native apps: **PokerIntel, PokerBaazi F2P, PokerBoss**
-- 🎓 Final-year **B.Tech CSE (AIML)** @ GL Bajaj Institute of Technology & Management (AKTU) — graduating May 2026, **8.7 CGPA**
-- 🏆 **Top 5 Nationally** — Samsung Solve for Tomorrow (AI Track), among 20,000+ teams
-- 📜 **Patent Holder** — Automated AI-Powered Database Handler Using NLP (App ID: 202511109286, IP India, 2025)
+- 💼 Currently a **Software Development Engineer Intern at Baazi Games (CoinPoker)** - shipping features across 3 live React Native apps: **PokerIntel, PokerBaazi F2P, PokerBoss**
+- 🎓 Final-year **B.Tech CSE (AIML)** @ GL Bajaj Institute of Technology & Management (AKTU) - graduating May 2026, **8.7 CGPA**
+- 🏆 **Top 5 Nationally** - Samsung Solve for Tomorrow (AI Track), among 20,000+ teams
+- 📜 **Patent Holder** - Automated AI-Powered Database Handler Using NLP (App ID: 202511109286, IP India, 2025)
 - 🧠 **800+ problems** solved on LeetCode (peak rating 1625) · 150+ on GeeksforGeeks
 - 🔭 Building real-time AI systems for **crowd safety, misinformation detection, and healthcare access**
 - 🌱 Currently exploring **distributed systems, LLM-driven automation, and cloud-native architecture**
-- ⚡ Fun fact: I love shipping AI that solves *real* problems — not just demos
+- ⚡ Fun fact: I love shipping AI that solves *real* problems - not just demos
 - 📫 Reach me at **tusharranjan151@gmail.com**
 
 <br clear="right"/>
@@ -103,13 +103,13 @@
 </td>
 <td>
 
-### Software Development Engineer Intern — Baazi Games (CoinPoker)
+### Software Development Engineer Intern - Baazi Games (CoinPoker)
 **July 2025 – Present** &nbsp;|&nbsp; Remote, India
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 
-- 🚀 Shipped 10+ production features across 3 live React Native apps (PokerIntel, PokerBaazi F2P, PokerBoss) — UI revamps, real-time API integrations, club management flows, Lottie-based reward modals
+- 🚀 Shipped 10+ production features across 3 live React Native apps (PokerIntel, PokerBaazi F2P, PokerBoss) - UI revamps, real-time API integrations, club management flows, Lottie-based reward modals
 - 🌍 Integrated localisation for 11+ languages on PokerIntel, resolving cross-platform rendering bugs on iOS, Android, and Web
-- 🤖 Built automated poker bot simulations (PyAutoGUI, Selenium, WebSockets) — cut manual regression effort by **80%**
+- 🤖 Built automated poker bot simulations (PyAutoGUI, Selenium, WebSockets) - cut manual regression effort by **80%**
 - 🐛 Resolved **350+ bugs** across production and QA using structured logging and root-cause analysis
 - 📊 Implemented CleverTap analytics events and migrated static assets to AWS S3
 
@@ -184,14 +184,14 @@ Converts plain-English (10+ languages) into live SQL queries with a context-awar
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-Real-time bed availability, OPD registration & predictive inventory alerts — cut patient wait time by **30%**.
+Real-time bed availability, OPD registration & predictive inventory alerts - cut patient wait time by **30%**.
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📁 More Repositories — click to expand</b></summary>
+<summary><b>📁 More Repositories - click to expand</b></summary>
 <br>
 
 | Project | Description | Tech |
@@ -200,7 +200,7 @@ Real-time bed availability, OPD registration & predictive inventory alerts — c
 | 💳 **[Credit Card Fraud Detection](https://github.com/Tushar00012/Credit-Card---Fraud-Detection)** | ML pipeline for detecting fraudulent transactions | Python, Jupyter Notebook |
 | 🔥 **[Calorie Burned Prediction](https://github.com/Tushar00012/calorie-burned-prediction)** | Regression model predicting calories burned from activity data | Python |
 | 🐦 **[Flappy Bird Game](https://github.com/Tushar00012/flappy-bird-game)** | Classic arcade game clone built from scratch | Python |
-| 🏦 **[FinXthon — C.O.D.E Breakers](https://github.com/Tushar00012/finxthon-C.O.D.E-Breakers-)** | Semi-finalist hackathon project (FinXthon 2023, organized by Q2) | CSS |
+| 🏦 **[FinXthon - C.O.D.E Breakers](https://github.com/Tushar00012/finxthon-C.O.D.E-Breakers-)** | Semi-finalist hackathon project (FinXthon 2023, organized by Q2) | CSS |
 
 </details>
 
@@ -212,12 +212,12 @@ Real-time bed availability, OPD registration & predictive inventory alerts — c
   <img src="https://github-profile-trophy.vercel.app/?username=Tushar00012&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
 </p>
 
-- 🥇 **Samsung Solve for Tomorrow** (AI Track) — National Top 5 among 20,000+ teams
-- 🥈 **Vihaan 007 Hackathon, DTU** — Finalist (selected from 370+ teams)
-- 🏆 **Winner** — Bharat Shiksha Expo Hackathon 2024
-- 🥉 **Semi-Finalist** — FinXthon 2023 (organized by Q2)
-- 📜 **Patent Holder** — Automated AI-Powered Database Handler Using NLP (App ID: 202511109286, IP India, 2025)
-- 🎙️ **Organizing Head** — SuperNova Hackathon
+- 🥇 **Samsung Solve for Tomorrow** (AI Track) - National Top 5 among 20,000+ teams
+- 🥈 **Vihaan 007 Hackathon, DTU** - Finalist (selected from 370+ teams)
+- 🏆 **Winner** - Bharat Shiksha Expo Hackathon 2024
+- 🥉 **Semi-Finalist** - FinXthon 2023 (organized by Q2)
+- 📜 **Patent Holder** - Automated AI-Powered Database Handler Using NLP (App ID: 202511109286, IP India, 2025)
+- 🎙️ **Organizing Head** - SuperNova Hackathon
 - 💻 **800+ DSA problems** on LeetCode (peak rating 1625) · 150+ on GeeksforGeeks
 
 ---
@@ -237,7 +237,7 @@ Real-time bed availability, OPD registration & predictive inventory alerts — c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar00012&layout=compact&theme=react&title_color=36BCF7&icon_color=36BCF7&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=36BCF7&border_radius=10"/>
 </p>
 
-<!-- Snake contribution graph — requires the "snk" GitHub Action set up in your own repo to render live -->
+<!-- Snake contribution graph - requires the "snk" GitHub Action set up in your own repo to render live -->
 <p align="center">
   <!-- <img src="https://raw.githubusercontent.com/Tushar00012/Tushar00012/output/github-contribution-grid-snake.svg" alt=""/> -->
 </p>
@@ -254,6 +254,6 @@ Real-time bed availability, OPD registration & predictive inventory alerts — c
 <a href="mailto:tusharranjan151@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐ From building AI-powered crowd safety systems to shipping features for millions of poker players — always building things that matter.</i></p>
+<p align="center"><i>⭐ From building AI-powered crowd safety systems to shipping features for millions of poker players - always building things that matter.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130F40,100:36BCF7&height=120&section=footer"/>
