@@ -28,7 +28,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 💼 Currently a **Software Development Engineer Intern at Baazi Games (CoinPoker)** - shipping features across 3 live React Native apps: **PokerIntel, PokerBaazi F2P, PokerBoss**
+- 💼 Currently a **Associate Software Development Engineer  at Baazi Games (CoinPoker)** - shipping features across 3 live React Native apps: **PokerIntel, PokerBaazi F2P, PokerBoss**
 - 🎓 Final-year **B.Tech CSE (AIML)** @ GL Bajaj Institute of Technology & Management (AKTU) - graduating May 2026, **8.7 CGPA**
 - 🏆 **Top 5 Nationally** - Samsung Solve for Tomorrow (AI Track), among 20,000+ teams
 - 📜 **Patent Holder** - Automated AI-Powered Database Handler Using NLP (App ID: 202511109286, IP India, 2025)
@@ -103,7 +103,7 @@
 </td>
 <td>
 
-### Software Development Engineer Intern - Baazi Games (CoinPoker)
+### Associate Software Development Engineer  - Baazi Games (CoinPoker)
 **July 2025 – Present** &nbsp;|&nbsp; Remote, India
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 
